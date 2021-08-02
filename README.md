@@ -1,12 +1,17 @@
-<img src="http://2.bp.blogspot.com/-J_DyVs7f4lE/VAUhqykQXYI/AAAAAAAALaE/AoPhYzqCWjE/s1600/Flappy%2BBird%2B1.gif" align="right" />
+<img
+  src="http://2.bp.blogspot.com/-J_DyVs7f4lE/VAUhqykQXYI/AAAAAAAALaE/AoPhYzqCWjE/s1600/Flappy%2BBird%2B1.gif" 
+  align="right"
+  width="100"
+  height="100"
+/>
 
 # Flappy bird game
 > The bird of chaos 
 
 The base of project are some libs in javascript. The full list is:
 
-- Buzz official site: [Vrum, vrum!]('https://buzz.jaysalvat.com/')
-- OMG, Jquery for create a FlappyBird game: [PLEASE, DO NOT USE JQUERY OUTSIDE HERE]('https://jquery.com/')
+- Buzz official site: [Vrum, vrum!](https://buzz.jaysalvat.com/)
+- OMG, Jquery for create a FlappyBird game: [PLEASE, DO NOT USE JQUERY OUTSIDE HERE](https://jquery.com/)
 
 ##
 
