@@ -33,8 +33,10 @@ Was used jquery for start new songs, animations, the game gravity and the game l
 
 Need to add a new server in your nginx.conf:
 
+```bash
 server {
   listen      80;
   server_name your-ip-address;
   root your-flappybird-path;
 }
+```
