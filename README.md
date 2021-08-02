@@ -17,7 +17,12 @@ The base of project are some libs in javascript. The full list is:
 
 <img
   src="https://pics.me.me/lets-see-what-our-app-is-really-using-backbone-jquery-62515099.png"
-  align="center"
+  align="right"
   with="500"
   height="400"
 />
+
+## Base configuration
+
+The configuration base it is present in fb-main.js.
+Was used jquery for start new songs, animations, the game gravity and the game logic.
