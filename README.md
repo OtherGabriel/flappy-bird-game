@@ -15,4 +15,9 @@ The base of project are some libs in javascript. The full list is:
 
 ##
 
-<img src="https://pics.me.me/lets-see-what-our-app-is-really-using-backbone-jquery-62515099.png" />
+<img
+  src="https://pics.me.me/lets-see-what-our-app-is-really-using-backbone-jquery-62515099.png"
+  align="center"
+  with="500"
+  height="1000"
+/>
