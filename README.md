@@ -26,3 +26,15 @@ The base of project are some libs in javascript. The full list is:
 
 The configuration base it is present in fb-main.js.
 Was used jquery for start new songs, animations, the game gravity and the game logic.
+
+## For start application
+
+> Using Nginx
+
+Need to add a new server in your nginx.conf:
+
+server {
+  listen      80;
+  server_name your-ip-address;
+  root your-flappybird-path;
+}
